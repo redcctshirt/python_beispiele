@@ -16,9 +16,13 @@ https://www.python.org/
 python
 python3
 
-# Python-Programm starten
+# Python-Programm (.py .pyc) starten
 python hallowelt.py
 python3 hallowelt.py
+
+# Python-Programm in Bytecode (.pyc) umwandeln
+python -m compileall hallowelt.py
+python3 -m compileall hallowelt.py
 ```
 
 ### Beispiele
@@ -26,4 +30,6 @@ python3 hallowelt.py
 * [Hallo Welt](beispiele/hallowelt.py)
 * [Datentypen](beispiele/datentypen.py)
 
-README.md Lizenz: https://creativecommons.org/publicdomain/zero/1.0/deed.de
+### Lizenz
+
+https://creativecommons.org/publicdomain/zero/1.0/deed.de
