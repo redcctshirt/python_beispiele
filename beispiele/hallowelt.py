@@ -2,4 +2,18 @@
 
 # Ausgabe "Hallo Welt"
 print("Hallo Welt")
-print("Hi Python")
+
+# \ - in der nächsten Zeile geht der Befehl weiter
+print("Hi \
+Python")
+
+# ; - Ende der Anweisung
+print("Hallo"); print("Python")
+
+# Zeilenkommentar
+
+"""
+Blockkommentar
+
+mehrere Zeilen sind möglich
+"""
