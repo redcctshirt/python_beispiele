@@ -3,6 +3,7 @@
 https://www.python.org/
 
 * [PythonEditors](https://wiki.python.org/moin/PythonEditors)
+* [Anaconda - Python-Distribution](https://wiki.ubuntuusers.de/Anaconda/)
 
 ### Lernen
 
@@ -29,6 +30,8 @@ python3 -m compileall hallowelt.py
 
 * [Hallo Welt](beispiele/hallowelt.py)
 * [Datentypen](beispiele/datentypen.py)
+* [Logischer Ausdruck](beispiele/logischer_ausdruck.py)
+* [Kontrollstrukturen](beispiele/if.py)
 
 ### Lizenz
 
