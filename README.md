@@ -32,6 +32,8 @@ python3 -m compileall hallowelt.py
 * [Datentypen](beispiele/datentypen.py)
 * [Logischer Ausdruck](beispiele/logischer_ausdruck.py)
 * [Kontrollstrukturen](beispiele/if.py)
+* [Dateien](beispiele/file.py)
+* [Operatoren](beispiele/operatoren.py)
 
 ### Lizenz
 

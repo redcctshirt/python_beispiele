@@ -30,3 +30,5 @@ for i in [1,2,3,9]:  # break - Abbruch, continue - Weiter
 for i in range(1, 20, 3): # range(start, stop, schritt) - Bereich
     print(i)
     pass # Pass-Anweisung macht nichts
+
+# id(a) == id(b) - IDs vergleichen (a is b - auch möglich)
